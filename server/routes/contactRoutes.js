@@ -35,4 +35,4 @@ router.delete('/:id', async (req, res) => {
 });
 
 
-module.expo
+module.exports = router;
